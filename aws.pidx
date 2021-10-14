@@ -7,7 +7,7 @@
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Device_Defender" version="1.1.0-Beta"/>
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="1.0.2-Beta"/>
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Jobs" version="1.1.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Over-the-air_Update_Pack" version="3.0.0-Beta"/>
+    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="3.0.0-Beta"/>
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="backoffAlgorithm" version="1.0.0-Beta"/>
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreHTTP" version="2.0.0-Beta"/>
     <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreJSON" version="3.0.0-Beta"/>
