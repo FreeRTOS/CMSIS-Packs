@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
-  <vendor>MyVendor</vendor>
+  <vendor>AWS</vendor>
   <url>https://github.com/FreeRTOS/CMSIS/blob/Beta/</url>
   <timestamp>2020-10-14T15:00:00.0000000+00:00</timestamp>
   <pindex>
