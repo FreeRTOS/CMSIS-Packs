@@ -4,17 +4,17 @@
   <url>https://github.com/FreeRTOS/CMSIS/raw/main/</url>
   <timestamp>2020-10-15T12:23:00.0000000+00:00</timestamp>
   <pindex>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Device_Defender" version="1.1.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="1.0.2-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Jobs" version="1.1.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="3.0.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="backoffAlgorithm" version="1.0.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreHTTP" version="2.0.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreJSON" version="3.0.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreMQTT" version="1.1.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="coreMQTT_Agent" version="1.0.1-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="corePKCS11" version="3.0.0-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="FreeRTOS_LTS" version="2020.12.1-Beta"/>
-    <pdsc url="https://github.com/FreeRTOS/CMSIS/releases/download/Beta/" vendor="AWS" name="FreeRTOS-Plus-TCP" version="2.3.2-Beta"/>
-  </pindex>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Defender" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Jobs" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="backoffAlgorithm" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreHTTP" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreJSON" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT_Agent" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_LTS_Libraries" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_Plus_TCP_LTS" version="1.0.0"/>
+  </pindex_
 </index>
