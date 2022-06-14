@@ -13,5 +13,5 @@
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT" version="1.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT_Agent" version="1.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="1.0.0"/>
-  </pindex_
+  </pindex>
 </index>
