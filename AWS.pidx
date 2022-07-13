@@ -7,14 +7,14 @@
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Defender" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Jobs" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="4.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="4.0.1"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="backoffAlgorithm" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreHTTP" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreJSON" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT" version="4.0.0"/>
     <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT_Agent" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_LTS" version="2021.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS-Plus-TCP" version="4.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="4.0.1"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_LTS" version="2021.0.1"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS-Plus-TCP" version="4.0.1"/>
   </pindex>
 </index>
