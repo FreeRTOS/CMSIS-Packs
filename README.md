@@ -3,7 +3,7 @@
 ## Introduction
 
 The purpose of this repository is to store the [Package Index File][a1] for the FreeRTOS CMSIS packs and provide a place to download the packs directly.
-See the following tables for a full list of the libraries that are referenced in the Package Index File as well as download links for their packs.
+See the following tables for all of the current FreeRTOS CMSIS packs available.
 
 [a1]: https://arm-software.github.io/CMSIS_5/Pack/html/packIndexFile.html
 
