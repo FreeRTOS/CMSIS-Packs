@@ -2,19 +2,23 @@
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
   <vendor>AWS</vendor>
   <url>https://github.com/FreeRTOS/CMSIS-Packs/raw/main/</url>
-  <timestamp>2022-07-13T12:23:00.0000000+00:00</timestamp>
+  <timestamp>2023-02-28T11:15:00.0000000+00:00</timestamp>
   <pindex>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Defender" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Jobs" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="4.0.1"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="backoffAlgorithm" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreHTTP" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreJSON" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT_Agent" version="4.0.0"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="4.0.1"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_LTS" version="2021.0.1"/>
-    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS-Plus-TCP" version="4.0.1"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Defender" version="4.1.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Fleet_Provisioning" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Jobs" version="4.1.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="AWS_IoT_SigV4" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="backoffAlgorithm" version="4.1.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreHTTP" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreJSON" version="4.1.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreMQTT_Agent" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="corePKCS11" version="5.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="coreSNTP" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_Cellular_Interface" version="1.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS_LTS" version="2022.0.0"/>
+    <pdsc url="https://freertos-cmsis-packs.s3.us-west-2.amazonaws.com/" vendor="AWS" name="FreeRTOS-Plus-TCP" version="5.0.0"/>
   </pindex>
 </index>
