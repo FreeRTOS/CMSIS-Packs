@@ -1,3 +1,8 @@
+## CloudFront Update ( June 2023 )
+
+### Updates
+-  Updated the Package Index File (.pidx) with the cloudFront Url. Moving forward all of the CMSIS packs stored in the S3 bucket will be accessed via Amazon CloudFront. 
+
 ## LTS 2.0 ( Feb 2023 )
 
 ### Updates
@@ -11,4 +16,4 @@
 ## Beta ( October 2021 )
 This is a beta release for the repository.
 
-This repository contains a Package Index File (.pidx) that describes the location of the CMSIS Packs for various FreeRTOS [LTS](https://freertos.org/lts-libraries.html) libraries. This Package Index File enables the CMSIS Packs to be integrated into development tools. 
+This repository contains a Package Index File (.pidx) that describes the location of the CMSIS Packs for various FreeRTOS [LTS](https://freertos.org/lts-libraries.html) libraries. This Package Index File enables the CMSIS Packs to be integrated into development tools.
