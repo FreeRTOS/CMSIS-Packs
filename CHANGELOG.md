@@ -1,3 +1,9 @@
+## Re-release of LTS2.0 packs due to URL change ( June 2023 )
+
+### Updates
+-  The new version of the CMSIS packs were required for the reimport of the package description file which contains the Amazon CloudFront URL. 
+-  Contents of the new packs are same as the LTS 2.0 packs released in Feb 2023. 
+
 ## CloudFront Update ( June 2023 )
 
 ### Updates
