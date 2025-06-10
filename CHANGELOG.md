@@ -1,3 +1,9 @@
+## Partial Release of 202406 LTS Library Versions
+
+### Updates 
+- This release updates most packs to the 202406 LTS version (currently the FreeRTOS+TCP and FreeRTOS LTS packs are excluded from this update, but will be added in the next update).
+- The AWS IoT MQTT File Streams pack has been added.
+
 ## Re-release of LTS2.0 packs due to URL change ( June 2023 )
 
 ### Updates
