@@ -2,7 +2,7 @@
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
   <vendor>AWS</vendor>
   <url>https://github.com/FreeRTOS/CMSIS-Packs/raw/main/</url>
-  <timestamp>2023-06-27T11:15:00.0000000+00:00</timestamp>
+  <timestamp>2025-06-09T11:15:00.0000000+00:00</timestamp>
   <pindex>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Device_Defender" version="4.2.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="5.1.0"/>
