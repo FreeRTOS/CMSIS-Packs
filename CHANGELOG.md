@@ -1,3 +1,8 @@
+## Remaining Release of 202406 LTS Library Versions
+
+###
+- This release updates FreeRTOS+TCP and FreeRTOS LTS packs to the current 202406 versions.
+
 ## Partial Release of 202406 LTS Library Versions
 
 ### Updates 
