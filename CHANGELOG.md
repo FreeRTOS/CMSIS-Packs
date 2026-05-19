@@ -1,3 +1,14 @@
+## Release of 202604 LTS Library Versions
+
+### Updates
+- This release updates all packs to the FreeRTOS 202604.00-LTS versions.
+- coreMQTT updated to v5.0.2 with MQTT 5.0 support (pack 6.0.0).
+- coreMQTT-Agent updated to v2.0.0 (pack 6.0.0).
+- AWS IoT Jobs updated to v2.0.1 (pack 5.0.0).
+- coreSNTP updated to v2.0.0 (pack 2.0.0).
+- FreeRTOS-Plus-TCP updated to V4.4.1 with IPv6 support (pack 6.1.0).
+- FreeRTOS LTS meta-pack updated to 2026.0.0.
+
 ## Remaining Release of 202406 LTS Library Versions
 
 ###
