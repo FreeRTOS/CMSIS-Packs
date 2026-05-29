@@ -6,7 +6,7 @@ The purpose of this repository is to store the [Package Index File][a1] for the 
 
 See the following tables for all of the current FreeRTOS CMSIS packs available.
 
-[a1]: https://arm-software.github.io/CMSIS_5/Pack/html/packIndexFile.html
+[a1]: https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/createPackPublish.html#pidxFile
 
 ## Libraries
 
