@@ -1,3 +1,8 @@
+## Deprecation of AWS IoT Over-the-air Update
+
+### Updates
+- The AWS IoT Over-the-air Update pack is deprecated and no longer maintained. Version 5.0.2 has been released with the `deprecated` release attribute to signal end of support to users and development tools. The pack contents are unchanged from 5.0.1 (based on https://github.com/aws/ota-for-aws-iot-embedded-sdk/tree/v3.4.0/).
+
 ## Release of 202604 LTS Library Versions
 
 ### Updates

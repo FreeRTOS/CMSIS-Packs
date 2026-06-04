@@ -2,13 +2,13 @@
 <index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
   <vendor>AWS</vendor>
   <url>https://github.com/FreeRTOS/CMSIS-Packs/raw/main/</url>
-  <timestamp>2026-05-19T08:30:00.0000000+00:00</timestamp>
+  <timestamp>2026-05-20T08:30:00.0000000+00:00</timestamp>
   <pindex>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Device_Defender" version="4.3.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Device_Shadow" version="5.2.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Fleet_Provisioning" version="1.2.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Jobs" version="5.0.0"/>
-    <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="5.0.1"/>
+    <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_Over-the-air_Update" version="5.0.2"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="AWS_IoT_SigV4" version="1.2.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="backoffAlgorithm" version="4.3.0"/>
     <pdsc url="https://d1pm0k3vkcievw.cloudfront.net/" vendor="AWS" name="coreHTTP" version="5.2.0"/>
